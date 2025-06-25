@@ -189,7 +189,7 @@ const AboutSection = () => {
               whileTap={{ scale: 0.98 }} // Reduced from 0.95
             >
               <Button asChild className="flex items-center space-x-2 bg-gradient-to-r from-primary/80 to-purple-600/80 hover:from-primary hover:to-purple-600 text-white border-none shadow-lg shadow-primary/20">
-                <a href="https://drive.google.com/file/d/1hPGP_33gxMbyLeV57zJxEq4DAO1RH-HH/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1iZMVx-Xbpdi7211L2qms4XSuEzlHcFdy/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
                   <Download size={16} />
                   <span>Download Resume</span>
                 </a>
